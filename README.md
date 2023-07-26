@@ -1,1 +1,1 @@
-# OpenCV_Project-Gesture_Volume_Control
+# OpenCV Project - Gesture Volume Control
