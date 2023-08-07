@@ -11,3 +11,6 @@
 ### 3. The distance is mapped to the system volume range (-65 to 0 decibels) using interpolation.
 ### 4. The system volume is adjusted accordingly using the pycaw library.
 ### 5. The volume percentage and visual feedback (color-changing circle) are displayed on the screen.
+
+---
+### Mediapipe version used :- 0.8.3.1
